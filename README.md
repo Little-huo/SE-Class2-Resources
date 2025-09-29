@@ -1,2 +1,41 @@
 # SE-Class2-Resources
 软件工程二班共享学习资料库，包含课程笔记、复习资料、实验代码、工具推荐等内容。
+
+
+<div align="center">
+  <img src="resources/cover.png" alt="SE Class 2 Logo" width="120" />
+  <h1>软件工程二班学习资料库 📚</h1>
+  <p>一个面向软件工程二班同学的共享学习资源平台，帮助大家高效学习、顺利通过期末考试、共同进步。</p>
+
+  <img src="https://img.shields.io/github/stars/your-username/SE-Class2-Resources?style=flat-square" />
+  <img src="https://img.shields.io/github/forks/your-username/SE-Class2-Resources?style=flat-square" />
+  <img src="https://img.shields.io/github/last-commit/your-username/SE-Class2-Resources?style=flat-square" />
+</div>
+
+---
+
+## ✨ 仓库简介
+本仓库由 **软件工程二班** 同学共同维护，旨在为大家提供学习资料共享与交流的平台，内容涵盖课程笔记、历年试题、实验代码、工具推荐等。
+
+> **使命：让学习更高效，让复习更简单！**
+
+---
+
+## 📂 资料分类
+
+| 分类         | 内容示例                                 |
+|--------------|--------------------------------------|
+| **docs/**    | 课程笔记、复习资料、知识图谱          |
+| **code/**    | 实验代码、算法实现、课设示例          |
+| **exams/**   | 历年试题、复习提纲                     |
+| **tools/**   | 工具与插件推荐                         |
+| **resources/** | 仓库图片、封面、模板文件              |
+
+---
+
+## 🚀 快速开始
+
+1. 克隆仓库
+   ```bash
+   git clone https://github.com/your-username/SE-Class2-Resources.git
+
