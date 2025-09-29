@@ -7,9 +7,6 @@
   <h1>软件工程二班学习资料库 📚</h1>
   <p>一个面向软件工程二班同学的共享学习资源平台，帮助大家高效学习、顺利通过期末考试、共同进步。</p>
 
-  <img src="https://img.shields.io/github/stars/your-username/SE-Class2-Resources?style=flat-square" />
-  <img src="https://img.shields.io/github/forks/your-username/SE-Class2-Resources?style=flat-square" />
-  <img src="https://img.shields.io/github/last-commit/your-username/SE-Class2-Resources?style=flat-square" />
 </div>
 
 ---
