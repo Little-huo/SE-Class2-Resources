@@ -3,7 +3,6 @@
 
 
 <div align="center">
-  <img src="resources/cover.png" alt="SE Class 2 Logo" width="120" />
   <h1>软件工程二班学习资料库 📚</h1>
   <p>一个面向软件工程二班同学的共享学习资源平台，帮助大家高效学习、顺利通过期末考试、共同进步。</p>
 
